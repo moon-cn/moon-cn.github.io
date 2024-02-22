@@ -7,8 +7,7 @@ title: moon
 description: Moon的技术博客
 
 
-theme: jekyll-theme-cayman
-show_downloads: true
+theme: jekyll-theme-architect
 
 #
 # Flags below are optional
