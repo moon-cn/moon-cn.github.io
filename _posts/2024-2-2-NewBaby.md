@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 老婆怀孕了
 ---
 
